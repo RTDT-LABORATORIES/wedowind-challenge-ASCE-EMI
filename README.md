@@ -1,4 +1,4 @@
-# WeDoWind challenge: Field Applications in Structural Health Monitoring For Wind Turbines
+# The WeDoWind ASCE-EMI Structural Health Monitoring for Wind Energy Challenge
 Create a branch to work on your solution.
 
 
